@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sik:home|Door43 (sik)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sik|d43-sik repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sik/archive/master.zip|d43-sik.zip]]
+
+**Recent Changes**
+{{changes>ns = sik}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sik|Ethnologue data]]
+
